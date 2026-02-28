@@ -6,7 +6,6 @@ with your name. Then, save the code, add it to the staging area, and commit it t
 
 robot_speed = 5
 robot_speed = 3
-robot_speed = 8
 
 """
 
